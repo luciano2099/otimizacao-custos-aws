@@ -30,6 +30,10 @@ Com a ativação dessas três ferramentas na Abstergo Industries, a expectativa 
 
 ## Anexos
 - Planilha de projeção de custos (AWS Pricing Calculator)
-- Painel de controle de custos configurado
+- Painel de controle de custos configurado (painel_controle_custos.md)
+- Relatório Visual do Dashboard (Dashboard.pdf)
 
-**Responsável pelo Projeto:** Luciano Siviero
+## Observações / Links do Projeto
+- **Dashboard Interativo (Replit):** [Clique aqui para acessar o sistema rodando](https://194f8cc6-8b8b-4560-bb13-ad2cfecc817f-00-q4p35wimooaq-ii8rcsxb.worf.replit.dev/)
+
+**Assinatura do Responsável pelo Projeto:** Luciano Siviero
